@@ -8,7 +8,7 @@ Consider the following requirements:
 4. Each cohort has multiple topics that are delivered by mentors.
 5. Each topic is taught by one mentor, and each mentor can teach multiple topics.
 6. Each topic has an ID, title, and description
-7. Each mentor belongs to a department, where each department has a department ID, name, an office, and topic speciality.
+7. Each mentor belongs to a department, where each department has a      ID, name, an office, and topic speciality.
 
 The following are requested: 
 1. Design and draw an ER diagram that captures the information about Codi: 
